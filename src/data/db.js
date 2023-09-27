@@ -1,0 +1,40 @@
+const users = [
+  {
+    id: 1,
+    imgUrl: "",
+    first_name: "John",
+    last_name: "Doe",
+    age: 27,
+    email: "johndoe@gmail.com",
+    gender: "male",
+    job: "developer",
+    dob: "27.12.1996",
+    country: "America",
+  },
+  {
+    id: 2,
+    imgUrl: "",
+    first_name: "Alex",
+    last_name: "Frank",
+    age: 30,
+    email: "alexfrank@gmail.com",
+    gender: "male",
+    job: "designer",
+    dob: "02.10.1993",
+    country: "Mexico",
+  },
+  {
+    id: 3,
+    imgUrl: "",
+    first_name: "Lili",
+    last_name: "Gola",
+    age: 21,
+    email: "liligola@gmail.com",
+    gender: "female",
+    job: "copywriter",
+    dob: "18.05.2001",
+    country: "Brazilia",
+  },
+];
+
+export default users;
